@@ -1,7 +1,13 @@
 # Source Code for 7 JavaScript Libraries
 
 Hi! I'm Abhishek Singh
-this is the source code for 7 JavaScript libraries i.e. Anime Js, Reveal Js, Video Js, Chart Js, Intro Js, Tesseract Js, Editor Js
+this is the source code for 7 JavaScript libraries i.e. Anime Js,
+Reveal Js, 
+Video Js,
+Chart Js,
+Intro Js,
+Tesseract Js,
+Editor Js
 
 
 
